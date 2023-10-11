@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<root>
+    <TreeNodesModel>
+        <Action ID="GetStartPoint">
+            <input_port name="path">Path to find the start point of</input_port>
+            <output_port name="start_point">Start Point of Path</input_port>
+        </Action>
+    </TreeNodesModel>
+</root>
